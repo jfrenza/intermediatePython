@@ -27,6 +27,17 @@ Each folder corresponds to a **specific topic** in Python and includes **short, 
   - What scope is and how it works
   - The relationship between scope and namespaces
   - LEGB rule (Local, Enclosing, Global, Built-in)
+  - **Local Scope**
+  - **Enclosing (Nonlocal) Scope**
+  - **Use of the `nonlocal` keyword**
+  - **Global Scope**
+  - **Use of the `global` keyword**
+
+- `functions_deep_dive/`  
+  A deeper exploration of key function-related topics in Python:
+  - **Lambda Functions**
+  - **Higher-Order Functions**
+  - **Decorators**
 
 ---
 
