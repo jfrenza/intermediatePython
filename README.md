@@ -39,6 +39,15 @@ Each folder corresponds to a **specific topic** in Python and includes **short, 
   - **Higher-Order Functions**
   - **Decorators**
 
+- `oop/`  
+  Covers the **Object-Oriented Programming** paradigm in Python:
+  - **Introduction to OOP**
+  - **Inheritance**
+  - **Polymorphism**
+  - **Dunder Methods** and Operator Overloading
+  - **Abstraction** (using abstract base classes)
+  - **Encapsulation** (public, protected, and private members)
+
 ---
 
 ## 📌 Purpose
